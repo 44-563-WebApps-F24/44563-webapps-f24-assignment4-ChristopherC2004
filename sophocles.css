@@ -15,15 +15,44 @@
     color: #a500c6;
     background-color: rgb(234, 247, 189);
 }
+
 #OED{
     color:cyan
 }
+#OED:hover{
+    text-shadow:2px 3px 3px darkorchid;
+    border-style: groove; 
+    border-radius: 7px;
+    border-color: darkblue;
+    padding: 3px;
+    max-width: 75px
+}
+
 #CH{
     color:crimson
+    
 }
+#CH:hover{
+    text-shadow:2px 3px 3px gold;
+    border-style: groove; 
+    border-radius: 7px;
+    border-color: gold;
+    padding: 3px;
+    max-width: 75px
+}
+
 #TI{
     color:limegreen
 }
+#TI:hover{
+    text-shadow:2px 3px 3px peachpuff;
+    border-style: groove; 
+    border-radius: 7px;
+    border-color: orange;
+    padding: 3px;
+    max-width: 75px
+}
+
 table { border: solid 3.5px rgb(51, 160, 199);
     border-collapse: separate;
     border-spacing: 1.5px;
