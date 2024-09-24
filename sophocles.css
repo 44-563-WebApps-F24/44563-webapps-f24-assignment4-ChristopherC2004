@@ -1,26 +1,26 @@
-.speech {
+#speech {
     font-family: 'Times New Roman', Times, serif;
     color: black;
-    font-size: 20;
+    font-size: 25;
 }
 
-.direction {
+#direction {
     font-family: 'Courier New', Courier, monospace;
     color: black;
     font-size: 15;
     background-color: lightblue;
 
 }
-.direction:hover{
+#direction:hover{
     color: #a500c6;
     background-color: rgb(234, 247, 189);
 }
-.OED{
+#OED{
     color:cyan
 }
-.CH{
+#CH{
     color:crimson
 }
-.TI{
+#TI{
     color:limegreen
 }
