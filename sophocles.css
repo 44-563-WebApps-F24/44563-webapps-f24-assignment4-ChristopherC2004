@@ -24,3 +24,12 @@
 #TI{
     color:limegreen
 }
+table { border: solid 3.5px rgb(51, 160, 199);
+    border-collapse: separate;
+    border-spacing: 1.5px;
+    padding: 3px;
+}
+td, th {border: solid 1px ;
+    text-align: center;}
+tr:nth-child(even)
+    {background-color: #bacdf9;}
